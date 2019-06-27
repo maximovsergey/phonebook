@@ -1,0 +1,38 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "main": "./src/myProject.ts",
+  "dependencies": {
+    "apollo-server-express": "^2.4.8",
+    "connect": "^3.6.6",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphiql": "^0.13.0",
+    "graphql": "^14.2.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "qs-middleware": "^1.0.3",
+    "reflect-metadata": "^0.1.13",
+    "request": "^2.88.0",
+    "sequelize": "4.39.1",
+    "sequelize-typescript": "^0.6.10",
+    "type-graphql": "^0.17.1",
+    "typescript": "^3.4.4",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/uuid": "^3.4.4",
+    "nodemon": "^1.19.1",
+    "ts-node": "^8.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/myProject.ts",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
