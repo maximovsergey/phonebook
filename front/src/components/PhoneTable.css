@@ -1,0 +1,18 @@
+.column--name{
+    min-width: 150px;
+}
+.column--lastName{
+    min-width: 150px;
+}
+.column--address{
+    min-width: 150px;
+}
+.column--phones{
+    min-width: 150px;
+}
+.column--email{
+    min-width: 150px;
+}
+.column--action{
+    min-width: 140px;
+}

@@ -1,0 +1,27 @@
+.addContact {
+    margin-bottom: 10px;
+    width: 70%;
+}
+.icon {
+    transition-duration: 0.3s;
+    color: rgba(0,0,0,.25);
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.icon:hover{
+    transition-duration: 0.3s;
+    font-size: 34px;
+    color: black;
+}
+
+.icon--plus {
+    transition-duration: 0.3s;
+    color: rgba(0,0,0,.25);
+    font-size: 14px;
+    margin-left: '10px'
+}
+.icon--plus:hover{
+    transition-duration: 0.3s;
+    font-size: 16px;
+    color: black;
+}
