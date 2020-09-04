@@ -15,7 +15,7 @@
     "qs-middleware": "^1.0.3",
     "reflect-metadata": "^0.1.13",
     "request": "^2.88.0",
-    "sequelize": "4.39.1",
+    "sequelize": "6.3.5",
     "sequelize-typescript": "^0.6.10",
     "type-graphql": "^0.17.1",
     "typescript": "^3.4.4",
